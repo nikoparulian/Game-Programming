@@ -24,7 +24,7 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://youtu.be/6igON5tyQRMalt" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="https://youtu.be/6igON5tyQRMalt" width="240" height="180" border="10" /></a>
 
 
 <a href="https://youtu.be/6igON5tyQRMalt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
