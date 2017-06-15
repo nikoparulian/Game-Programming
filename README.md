@@ -23,7 +23,7 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 *	Space bar for jump.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://youtu.be/6igON5tyQRMalt" 
+" https://youtu.be/6igON5tyQRMalt="_blank"><img src="https://youtu.be/6igON5tyQRMalt" 
 alt="https://youtu.be/6igON5tyQRMalt" width="240" height="180" border="10" /></a>
 
 
