@@ -8,7 +8,8 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 
 ## Game Mechanics
 
-•	Players are required to run from the pursuit of trucks.
+⋅⋅* Players are required to run from the pursuit of trucks.
+
 •	Players are required to avoid obstacles by moving towards left, right, or jump.
 •	Each time hit the obstacle,player will lose his running speed.
 •	Much longer player survives, more faster player runs, making it more difficult to control.
