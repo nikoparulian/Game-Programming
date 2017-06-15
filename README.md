@@ -22,6 +22,12 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 *	‘D’ button for towards. right.
 *	Space bar for jump.
 
+## Entity on Game
+* Player
+![alt text](https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Player.jpeg "Logo Title Text 1")
+
+https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Player.jpeg
+
 <a href="https://www.youtube.com/watch?v=6igON5tyQRM
 " target="https://www.youtube.com/watch?v=6igON5tyQRM"><img src="https://www.youtube.com/watch?v=6igON5tyQRM/0.jpg" 
 alt="video" width="240" height="180" border="10" /></a>
