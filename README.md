@@ -9,8 +9,8 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 ## Game Mechanics
 
 * Players are required to run from the pursuit of trucks.
--	Players are required to avoid obstacles by moving towards left, right, or jump.
-+	Each time hit the obstacle,player will lose his running speed.
+*	Players are required to avoid obstacles by moving towards left, right, or jump.
+*	Each time hit the obstacle,player will lose his running speed.
 *	Much longer player survives, more faster player runs, making it more difficult to control.
 *	Truck will always increase the speed.
 *	Much longer player survives, more score will gained.
@@ -22,11 +22,9 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 *	‘D’ button for towards. right.
 *	Space bar for jump.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-
-
-
-# Game-Programming
-Tugas akhir game programming
-Link Youtube https://youtu.be/6igON5tyQRM
+<a href="https://youtu.be/6igON5tyQRMalt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
