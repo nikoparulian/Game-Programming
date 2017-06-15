@@ -43,7 +43,7 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 alt="Klik this picture to play video in youtube" width="240" height="180" border="10" /></a>
 
 
-_Made by_
+_Made by:_
 * Arvy Dharmmaparayaandhika-061303021
 * Niko Parulian-061303036
 
