@@ -40,3 +40,5 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 <a href="https://www.youtube.com/watch?v=6igON5tyQRM
 " target="https://www.youtube.com/watch?v=6igON5tyQRM"><img src="https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Satria%20Bajahitam.jpeg" 
 alt="video" width="240" height="180" border="10" /></a>
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
