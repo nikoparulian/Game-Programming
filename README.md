@@ -44,7 +44,7 @@ alt="Klik this picture to play video in youtube" width="240" height="180" border
 
 
 _Made by_
-* Arvy Dharmmaparayaandhika 061303021
-* Niko Parulian 061303036
+* Arvy Dharmmaparayaandhika-061303021
+* Niko Parulian-061303036
 
 From University of Widyatama Bandung
