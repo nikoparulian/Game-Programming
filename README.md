@@ -29,13 +29,13 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 
 * Enemy
 
-![alt text](https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Enemy.jpeg "Logo Title Text 2")
+![alt text](https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Enemy.jpeg "Logo Title Text 1")
 
 * Obstacle
 
-![alt text](https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Obstacle.jpeg "Logo Title Text 3")
+![alt text](https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Obstacle.jpeg "Logo Title Text 1")
 
 
 <a href="https://www.youtube.com/watch?v=6igON5tyQRM
-" target="https://www.youtube.com/watch?v=6igON5tyQRM"><img src="https://www.youtube.com/watch?v=6igON5tyQRM/0.jpg" 
+" target="https://www.youtube.com/watch?v=6igON5tyQRM"><img src="https://github.com/nikoparulian/Run-Forrest-Run-mini-game/blob/master/Satria%20Bajahitam.jpeg" 
 alt="video" width="240" height="180" border="10" /></a>
