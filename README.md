@@ -11,15 +11,16 @@ In the film, there is a scene where Forrest is harassed by some rascals. The ras
 * Players are required to run from the pursuit of trucks.
 -	Players are required to avoid obstacles by moving towards left, right, or jump.
 +	Each time hit the obstacle,player will lose his running speed.
-•	Much longer player survives, more faster player runs, making it more difficult to control.
-•	Truck will always increase the speed.
-•	Much longer player survives, more score will gained.
-•	Game is over when player get hit by truck.
+*	Much longer player survives, more faster player runs, making it more difficult to control.
+*	Truck will always increase the speed.
+*	Much longer player survives, more score will gained.
+*	Game is over when player get hit by truck.
 
-How to Play
-•	‘A’ button for towards left.
-•	‘D’ button for towards. right.
-•	Space bar for jump.
+## How to Play
+
+*	‘A’ button for towards left.
+*	‘D’ button for towards. right.
+*	Space bar for jump.
 
 
 
